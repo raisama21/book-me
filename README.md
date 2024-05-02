@@ -30,5 +30,5 @@ Now you'll need to pick a host to deploy it to.
 
 If you're familiar with deploying Express applications you should be right at home. Just make sure to deploy the output of `npm run build`
 
-- `build/server`
-- `build/client`
+-   `build/server`
+-   `build/client`
